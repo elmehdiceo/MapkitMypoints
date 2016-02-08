@@ -1,3 +1,3 @@
 # MapkitMypoints
 Week 3 Assignment 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_qfoA03MY8" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](http://img.youtube.com/vi/0_qfoA03MY8/maxresdefault.jpg)](http://youtu.be/0_qfoA03MY8)
